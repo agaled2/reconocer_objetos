@@ -1,0 +1,10 @@
+body{
+    background-color: gold;
+    text-align: center;
+}
+#camara{
+    width: 350px;
+    height: 350px;
+    border: blue 2px dashed;
+    margin: 0 auto;
+}
